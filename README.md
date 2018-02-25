@@ -1,2 +1,3 @@
-# vue-admin
-Vue 基于iview-admin的后台管理模板
+# Vue Admin
+
+基于iView Admin的后台管理模板
